@@ -1,14 +1,14 @@
 ---
-title: "This Part is Still Under Construction 1"
+title: "Robotics 101"
 collection: teaching
-type: "Undergraduate course"
+type: "Basic Robotics Course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
+venue: "Online Teaching"
+date: 2024-01-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This part is still under construction.
 
 Heading 1
 ======
