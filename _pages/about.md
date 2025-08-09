@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is **Botao Zhao**. I'm currently a **Staff Mechanical Engineer** at **[Nautilus X-Ray](https://www.nautilusxray.com/)**, an R&D company specializing in the design and prototyping of CT scanners and related technologies. I received my Master's degree in Robotics from **Johns Hopkins University**, where I worked with [Dr. Iordachita](https://engineering.jhu.edu/faculty/iulian-iordachita/) in the [AMIRo Research Lab](https://amiro.lcsr.jhu.edu/). I also earned dual Bachelor’s degrees in Aeronautical and Mechanical Engineering, along with a Master’s in Mechanical Engineering, from **Rensselaer Polytechnic Institute**, where I worked with [Dr. Walczyk](https://faculty.rpi.edu/daniel-walczyk) in the [Manufacturing Innovation Learning Lab](https://manufacturing.eng.rpi.edu/facilities/mill).
+Hi there! My name is **Botao Zhao**. I'm currently a **Staff Mechanical Engineer** at **[Nautilus X-Ray](https://www.nautilusxray.com/)**, an R&D company specializing in the design and prototyping of CT scanners and related technologies. I received my Master's degree in Robotics from **Johns Hopkins University**, where I worked with [Dr. Iordachita](https://engineering.jhu.edu/faculty/iulian-iordachita/) in the [AMIRo Research Lab](https://amiro.lcsr.jhu.edu/). I also earned dual Bachelor’s degrees in Aeronautical and Mechanical Engineering, along with a Master’s in Mechanical Engineering, from **Rensselaer Polytechnic Institute**, where I worked with [Dr. Walczyk](https://faculty.rpi.edu/daniel-walczyk) in the [Manufacturing Innovation Learning Lab](https://manufacturing.eng.rpi.edu/facilities/mill).
 
 A Passionate Aero/Mech/Robotics Engineer
 ======
