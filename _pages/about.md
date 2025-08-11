@@ -11,7 +11,7 @@ Hi there! My name is **Botao Zhao**. I'm currently a **Staff Mechanical Engineer
 
 A Passionate Aero/Mech/Robotics Engineer
 ======
-I love everything related to machinery and robotics. Participating in robotics club activities, experiencing an intern job in a high-tech medical equipment manufacturer, being a teaching assistant of a graduate-level robotics class, doing robotics-based research projects, and writing robotics conference papers - all those valuable experiences made me confident on my capabilities and potentials to realize my dream.
+I’ve always been fascinated by machinery and robotics - basically anything with gears, motors, sensors and code that makes stuff move. From building competition robots at robot club to interning at a cutting-edge medical equipment company, from helping teach robotics courses to diving deep into research projects, each step has strengthened my skills and deepened my passion. Along the way, I’ve learned how to turn ambitious ideas into real solutions - and to have fun doing it. You can check out some of my favorite **[Projects](/projects/)**.
 
 Designing Motion: My Path to Robotics
 ======
