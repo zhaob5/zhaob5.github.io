@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! My name is **Botao Zhao**. I'm currently a **Staff Mechanical Engineer** at **[Nautilus X-Ray](https://www.nautilusxray.com/)**, an R&D company specializing in the design and prototyping of CT scanners and related technologies. I received my Master's degree in Robotics from **Johns Hopkins University**, where I worked with [Dr. Iordachita](https://engineering.jhu.edu/faculty/iulian-iordachita/) in the [AMIRo Research Lab](https://amiro.lcsr.jhu.edu/). I also earned dual Bachelor’s degrees in Aeronautical and Mechanical Engineering, along with a Master’s in Mechanical Engineering, from **Rensselaer Polytechnic Institute**, where I worked with [Dr. Walczyk](https://faculty.rpi.edu/daniel-walczyk) in the [Manufacturing Innovation Learning Lab](https://manufacturing.eng.rpi.edu/facilities/mill).
+Hi there! My name is **Botao Zhao**. I'm currently a **Staff Mechanical Engineer** at **[Nautilus X-Ray](https://www.nautilusxray.com/)**, an R&D company specializing in the design and prototyping of CT scanners and related technologies. I'm also a remote **Research Assistant** at **[AMIRo](https://amiro.lcsr.jhu.edu/)** Research Lab.
+
+I received my Master's degree in Robotics from **Johns Hopkins University**, where I worked with [Dr. Iulian Iordachita](https://engineering.jhu.edu/faculty/iulian-iordachita/) in the AMIRo Research Lab. I also earned dual Bachelor’s degrees in Aeronautical and Mechanical Engineering, along with a Master’s in Mechanical Engineering, from **Rensselaer Polytechnic Institute**, where I worked with [Dr. Daniel Walczyk](https://faculty.rpi.edu/daniel-walczyk) in the Manufacturing Innovation Learning Lab.
 
 A Passionate Aero/Mech/Robotics Engineer
 ======
@@ -21,4 +23,4 @@ From 2021 to 2023, I pursued my second Master’s degree in medical robotics at 
 
 In July 2023, I joined Nautilus X-Ray, an innovative medical imaging startup in Las Vegas dedicated to redefining the future of E-Beam CT technology. As a Staff Engineer, I contribute to pioneering hardware design, validation, testing, and optimization, working alongside a team of exceptional talent. Together, we are driven to create an ultra-fast, game-changing CT imaging platform that integrates cutting-edge advancements to transform the landscape of medical diagnostics.
 
-Our latest work, "<i>Developing a Novel X-Ray Source and a 6th Generation Ultra-Fast and General-Purpose CT</i>", will be presented at Annual Meeting of the Radiological Society of North America (RSNA) 2025, showcasing our breakthrough approach in CT system design and imaging performance.
+Our latest work, "<i>Developing a Novel X-Ray Source and a 6th Generation Ultra-Fast and General-Purpose CT</i>", will be presented at Annual Meeting of the Radiological Society of North America ([RSNA 2025](https://www.rsna.org/annual-meeting)), showcasing our breakthrough approach in CT system design and imaging performance.
