@@ -27,23 +27,23 @@ Research Experience
      * Designed and built a passive counterbalance articulating arm to enhance SHER-3.0's positioning flexibility, making the system easier to deploy in different testing scenarios.
      * Applied Bernstein polynomial approximation for precise gravity compensation, preventing unintended tool movement caused by gravitational forces in admittance control mode.
      * Designed and conducted a comparative study between two different cooperative-control robots by analyzing the surgeon's applied force and the robot's tool-to-eyeball interaction force, with learning curve theory and cumulative sum chart for performance evaluation.
-  * Supervisor: Prof. Iulian Iordachita
+  * Supervisor: Iulian Iordachita
 
 * Sep 2020 - May 2021: Research Assistant
   * Rensselaer Polytechnic Institute
   * Completed Projects: 
      * Performed image processing for edge detection and fabric alignment analysis on carbon fiber layers bonded to metal parts to assess the quality of robotic Fabric-to-Metal adhesion. Conducted a comparative study evaluating two different end effectors: kinematic roller and granular jamming.
      * Developed a rapid performance evaluation process using FaroArm and SolidWorks to compare the margin of error between CAD models and real Robotic Fabric-to-Metal adhesive parts. Optimized inspection workflow, reduced average evaluation time from 45 minutes to 32 minutes.
-  * Supervisor: Glenn Saunders, Prof. Daniel Walczyk
+  * Supervisor: Glenn Saunders, Daniel Walczyk
 
-Work Experience
+<!--Work Experience
 ======
 * July 2023 - now: Staff Engineer
   * Nautilus X-Ray
   * Completed Projects:
     * Innovated a magnetic field mapping system (Cartesian Robot) to validate the electron steering system on Mach-2. Developed an efficient method to accurately map magnetic fields, ensuring optimal performance of the electron steering mechanism.
     * Developed a real-time pressure and temperature monitoring system designed for Drift Tube Testing within the High Vacuum Condition Chamber.
-  * Supervisor: Andrew Cross
+  * Supervisor: Andrew Cross-->
   
 Skills
 ======
