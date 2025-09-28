@@ -33,7 +33,7 @@ Research Experience
   * Rensselaer Polytechnic Institute
   * Completed Projects: 
      * Performed image processing for edge detection and fabric alignment analysis on carbon fiber layers bonded to metal parts to assess the quality of robotic Fabric-to-Metal adhesion. Conducted a comparative study evaluating two different end effectors: kinematic roller and granular jamming.
-     * Developed a rapid performance evaluation process using FaroArm and SolidWorks to compare the margin of error between CAD models and real Robotic Fabric-to-Metal adhesive parts. Optimized inspection workflow, reduced average evaluation time from 45 minutes to 32 minutes.
+     * Developed a rapid performance evaluation process using FaroArm and SolidWorks to compare the margin of error between CAD models and real Robotic Fabric-to-Metal adhesive parts. Optimized inspection workflow, reduced average evaluation time from 47 minutes to 32 minutes.
   * Supervisor: Glenn Saunders, Daniel Walczyk
 
 <!--Work Experience
