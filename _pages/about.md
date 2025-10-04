@@ -11,11 +11,11 @@ Hi there! My name is **Botao Zhao**. I'm currently a **Staff Mechanical Engineer
 
 I received my Master's degree in Robotics from **Johns Hopkins University**, where I worked with [Dr. Iulian Iordachita](https://engineering.jhu.edu/faculty/iulian-iordachita/) in the AMIRo Research Lab. I also earned dual Bachelor’s degrees in Aeronautical and Mechanical Engineering, along with a Master’s in Mechanical Engineering, from **Rensselaer Polytechnic Institute**, where I worked with [Dr. Daniel Walczyk](https://faculty.rpi.edu/daniel-walczyk) in the Manufacturing Innovation Learning Lab.
 
-A Passionate Aero/Mech/Robotics Engineer
+A Passionate Mech / Robotics Engineer
 ======
 I’ve always been fascinated by machinery and robotics - basically anything with gears, motors, sensors and code that makes stuff move. From building competition robots at robot club to interning at a cutting-edge medical equipment company, from helping teach robotics courses to diving deep into research projects, each step has strengthened my skills and deepened my passion. Along the way, I’ve learned how to turn ambitious ideas into real solutions - and to have fun doing it. You can check out some of my favorite **[Projects](/projects/)**.
 
-Designing Motion: My Path to Robotics
+Designing Motion: My Path to Medical Robotics
 ======
 From 2016 to 2021, I completed a rigorous five-year combined Bachelor’s and Master’s program in Aeronautical and Mechanical Engineering at Rensselaer Polytechnic Institute. This foundation strengthened my ‘mechanical and soft’ skills, covering areas like engineering design, data analysis, critical thinking, and teamwork. With every engineering course I took, my desire to become a robotics engineer solidified - I wanted to solve real-world challenges with cutting-edge technology. Yet, I also realized I’d only scratched the surface of the field, sparking an eagerness to delve deeper into robotics.
 
