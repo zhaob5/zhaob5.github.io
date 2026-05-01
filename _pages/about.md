@@ -6,8 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Hi there! My name is **Botao Zhao**. I am an incoming PhD student in Imaging Science at **Washington University in St. Louis**, where I will focus on integrating robotics with medical imaging systems.
 
-Hi there! My name is **Botao Zhao**. I'm currently a **Staff Mechanical Engineer** at **[Nautilus X-Ray](https://www.nautilusxray.com/)**, an R&D company specializing in the design and prototyping of CT scanners and related technologies. I'm also a part-time **Research Assistant** at **[AMIRo](https://amiro.lcsr.jhu.edu/)** Research Lab.
+Previously, I worked as a **Staff Mechanical Engineer** at **[Nautilus X-Ray](https://www.nautilusxray.com/)**, contributing to the design, prototyping, and system integration of next-generation CT scanners. My work spans mechanical design, hardware integration, and computational imaging pipelines. I was also a part-time Research Assistant at the **[AMIRo](https://amiro.lcsr.jhu.edu/)** Research Lab.
 
 I received my Master's degree in Robotics from **Johns Hopkins University**, where I worked with [Dr. Iulian Iordachita](https://engineering.jhu.edu/faculty/iulian-iordachita/) in the AMIRo Research Lab. I also earned dual Bachelor’s degrees in Aeronautical and Mechanical Engineering, along with a Master’s in Mechanical Engineering, from **Rensselaer Polytechnic Institute**, where I worked with [Dr. Daniel Walczyk](https://faculty.rpi.edu/daniel-walczyk) in the Manufacturing Innovation Learning Lab.
 
