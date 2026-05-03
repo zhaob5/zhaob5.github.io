@@ -1,0 +1,34 @@
+---
+title: "CT Reconstruction with Real Trajectory-Based Motion Correction"
+excerpt: "Trajectory-corrected CT reconstruction using measured system motion data for improved image quality.<br/><img src='/images/CT_TrajectoryCorrection_cover.png'>"
+collection: projects
+date: 2026-05-01
+---
+
+A CT reconstruction pipeline that incorporates measured system trajectory data to correct geometric deviations during scanning, improving image fidelity compared to nominal-trajectory-based reconstruction. This work focuses on leveraging real motion data to compensate for mechanical imperfections and enhance reconstruction accuracy in practical CT systems.
+
+<br><br>
+
+<img src='/images/CT_Trajectory.png'>
+
+<br><br>
+
+The reconstruction framework integrates trajectory correction into the forward and backprojection stages, allowing the system to account for deviations in detector position and source motion. By replacing idealized geometry with measured trajectory inputs, the method reduces artifacts such as blurring and structural distortion, particularly in high-resolution regions.
+
+<br><br>
+
+<img src='/images/CT_Trajectory_correction_compare.png'>
+
+<br><br>
+
+Quantitative benchmarks were conducted to evaluate reconstruction performance and image quality under different trajectory assumptions. The results include comparisons of reconstruction time, image resolution, and artifact level between nominal-trajectory reconstruction and trajectory-corrected reconstruction. The trajectory-corrected approach demonstrates improved structural fidelity and reduced distortion, while maintaining comparable reconstruction speed within the optimized pipeline.
+
+<br><br>
+
+<img src='/images/CT_RealDataRecon.png'>
+
+<br><br>
+
+<p>
+Disclaimer: This work was conducted during my time at Nautilus X-Ray. The content presented here is a high-level summary and does not include proprietary implementation details or confidential information.
+</p>
